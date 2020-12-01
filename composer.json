@@ -1,0 +1,21 @@
+{
+	"name": "ehcan/myket_validation",
+	"description": "A simple npm module for validate https://myket.ir/ payments",
+	"homepage": "https://github.com/Ehcaning/myket-validation-composer",
+	"type": "library",
+	"authors": [
+		{
+			"name": "Ehsan",
+			"email": "ehcan@icloud.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"MyketValidator\\": "src"
+		}
+	}
+}
