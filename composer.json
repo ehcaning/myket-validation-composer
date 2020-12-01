@@ -1,6 +1,7 @@
 {
 	"name": "ehcan/myket_validation",
 	"description": "A simple npm module for validate https://myket.ir/ payments",
+	"version":"1.0.0",
 	"homepage": "https://github.com/Ehcaning/myket-validation-composer",
 	"type": "library",
 	"authors": [
@@ -9,7 +10,6 @@
 			"email": "ehcan@icloud.com"
 		}
 	],
-	"minimum-stability": "dev",
 	"license": "MIT",
 	"require": {
 		"php": ">=5.3.0"
